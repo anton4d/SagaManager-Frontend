@@ -1,0 +1,1 @@
+cd sagamanager-frontend && npm test -- --run
